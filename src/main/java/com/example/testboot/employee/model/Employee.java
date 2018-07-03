@@ -1,4 +1,4 @@
-package com.example.testboot.boottest.model;
+package com.example.testboot.employee.model;
 
 public class Employee {
     String name;

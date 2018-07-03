@@ -1,7 +1,7 @@
 package com.example.testboot.boottest;
 
-import com.example.testboot.boottest.controller.RestTestController;
-import com.example.testboot.boottest.service.Iservice;
+import com.example.testboot.employee.controller.RestTestController;
+import com.example.testboot.employee.service.Iservice;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.mock.mockito.MockBean;

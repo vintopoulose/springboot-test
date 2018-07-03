@@ -1,7 +1,7 @@
 //package com.example.testboot.boottest.controller;
 //
-//import com.example.testboot.boottest.model.Employee;
-//import com.example.testboot.boottest.service.Iservice;
+//import Employee;
+//import Iservice;
 //import org.junit.Before;
 //import org.junit.Test;
 //import org.junit.runner.RunWith;
